@@ -1,126 +1,173 @@
-[{
-	"id": 0,
-	"header": "Asian Beauty X",
-	"exlinkText": "View live work",
-	"exlink": "https://www.asianbeautyx.com/",
-	"content": "<p>Asian Beauty X's website was implemented and adapted from Shopify codes from the start. To structure and style the pages, I had to alter the Shopify liquid codes and SASS for styling. As for the interactive parts (example: carousels and banners), they were done using Javascript and jQuery.</p>",
-	"imgsrc": [{
-		"img": "asianbeautyx1.png"
-	}, {
-		"img": "asianbeautyx2.png"
-	}, {
-		"img": "asianbeautyx3.png"
-	}]
-}, {
-	"id": 1,
-	"header": "Earnest and Collective",
-	"exlinkText": "View live work",
-	"exlink": "https://earnestcollective.com/",
-	"content": "<p>My primary role in creating this website is creating the base structure of the website using PHP and SASS. The styling of the website is delegated to my colleague.</p>",
-	"imgsrc": [{
-		"img": "earnestandcollective1.png"
-	}, {
-		"img": "earnestandcollective2.png"
-	}, {
-		"img": "earnestandcollective3.png"
-	}]
-}, {
-	"id": 2,
-	"header": "Hush Home",
-	"exlinkText": "View live work",
-	"exlink": "https://www.hushhome.com/",
-	"content": "<p>Homepage - new landing page section created. The section was created using Shopify liquid, HTML, and Grunt and SASS. </p><p>Customised product pages - Mattress Protector Page and Towel Set Page. these pages were made by duplicating the default styled product page and sections were adjusted and styled accordingly using Shopify Liquid, and Grunt and SASS. </p><p>Reviews page - the page was created from scratch in Shopify liquid, and incorporating the reviews apps from Shopify.</p><p>Charity Page - due to the page being temporarily run, the entire page was hardcoded in Shopify liquid.</p>",
-	"imgsrc": [{
-		"img": "hushhome1.png"
-	}, {
-		"img": "hushhome4.png"
-	}, {
-		"img": "hushhome2.png"
-	}, {
-		"img": "hushhome3.png"
-	}]
-}, {
-	"id": 3,
-	"header": "2+1 Concepts",
-	"exlinkText": "Full experience here",
-	"exlink": "",
-	"content": "<p>As part of the Harry Potter event held at Changi Airport, users needed to spend a minimum amount before participating. The game makes use of the basic boiler-template(HTML), CSS and Javascript. As the game is required to be an independent application, and the tablet used does not run its own localhost. Therefore, I had to make use of indexedDB, the localised browser and device memory. To access and use it, I used jsstore.js. The animations were done using GSAP Tweenmax.</p>",
-	"imgsrc": [{
-		"img": "2+1.png"
-	}]
-}, {
-	"id": 4,
-	"header": "Pernod Ricard (Curious Chase)",
-	"exlinkText": "Full experience here",
-	"exlink": "",
-	"content": "<!-- <p>For this project, the client required an interactive web app that does a \"spin the bottle\" animation. The web app makes use of PHP, SASS (for styling) and Javascript for interactivity. The web app only runs on mobile.</p> --><p>The web app was meant for a lucky draw event held by Martell. When the user spends a minimum amount, they can participate in this “Curious Chase” game. The user enters their details in the game, and tap into spinning a wheel. After the wheel spinning animation, the app returns either e-vouchers or bottles of Martell VSOP. The web app was built using PHP and styled using SASS.</p>",
-	"imgsrc": [{
-		"img": "pernod-ricard-martel.png"
-	}]
-}, {
-	"id": 5,
-	"header": "Iryasa",
-	"exlinkText": "View live work",
-	"exlink": "",
-	"content": "<p>Iryasa uses an existing theme in Shopify. However, the client requested for customisation of sections, hence requiring changes to be made to the immediate Shopify liquid and SASS.liquid codes. </p>",
-	"imgsrc": [{
-		"img": "iryasa1.png"
-	}, {
-		"img": "iryasa2.png"
-	}]
-}, {
-	"id": 6,
-	"header": "Marina Bay Sands",
-	"exlinkText": "View live work",
-	"exlink": "https://www.marinabaysands.com/\"",
-	"content": "My role was to change the content through the shopify admin board for each brand.",
-	"imgsrc": [{
-		"img": "marinabaysands.png"
-	}]
-}, {
-	"id": 7,
-	"header": "Peaupeau Beauty",
-	"exlinkText": "View live work",
-	"exlink": "https://www.peaupeaubeauty.com/",
-	"content": "<p>PeauPeau Beauty was my first project when I started web development.</p><p>Peaupeau Beauty was created from scratch using PHP and SASS. Grunt was used to continuously update the SASS within the page. </p><p>After receiving client approval, the basic website was implemented into Shopify.</p><p>However, there were also requested changes in the pages from the client in the later phase. To make changes to the structure, I had to alter the Shopify liquid codes and SASS files. It is from this project that I learned how to edit Shoify codes and how they are affected by the Shopify theme editor.</p>",
-	"imgsrc": [{
-		"img": "peaupeau1.png"
-	}, {
-		"img": "peaupeau2.png"
-	}, {
-		"img": "peaupeau3.png"
-	}]
-}, {
-	"id": 8,
-	"header": "Sennheiser",
-	"exlinkText": "View live work",
-	"exlink": "https://singapore.sennheiser.com/",
-	"content": "<p>My main role for this website is to alter changes according to client’s requests, implementing a product tracker using Javascript, and also create new subscription banners. As the website is already involving Shopify, it is required of me to make direct changes to the Shopify liquid codes. Changes also require me to make use of SASS and Grunt to style the pages and sections accordingly. </p>",
-	"imgsrc": [{
-		"img": "sennheiser1.png"
-	}, {
-		"img": "sennheiser2.png"
-	}]
-}, {
-	"id": 9,
-	"header": "Sojao",
-	"exlinkText": "View live work",
-	"exlink": "https://sojao.shop/",
-	"content": "As Sojao was already implemented into shopify, I had to use the Shopify liquid codes to alter the website accordingly. I was required to make a popup and a carousel in the product page. Languages used were Shopify Liquid, SASS and Javascript. Plugins used were slick.js and magnific-popup.js.",
-	"imgsrc": [{
-		"img": "sojao1.png"
-	}, {
-		"img": "sojao2.png"
-	}]
-}, {
-	"id": 10,
-	"header": "OCBC",
-	"exlinkText": "View live work",
-	"exlink": "https://sojao.shop/",
-	"content": "My main involvement with the OCBC Personal Banking revamp project had me to edit and update components that are reusable on the frontend. The experience of working on the had me to use NPM along with Gulp to build the component templates to be built into the website.",
-	"imgsrc": [{
-		"img": "ocbc_personal.png"
-	}, {
-		"img": "ocbc_premier.png"
-	}]
-}]
+[
+	{
+		"id": 0,
+		"header": "Asian Beauty X",
+		"exlinkText": "View live work",
+		"exlink": "https://www.asianbeautyx.com/",
+		"content": "<p>Asian Beauty X's website was implemented and adapted from Shopify codes from the start. To structure and style the pages, I had to alter the Shopify liquid codes and SASS for styling. As for the interactive parts (example: carousels and banners), they were done using Javascript and jQuery.</p>",
+		"imgsrc": [
+			{
+				"img": "asianbeautyx1.png"
+			},
+			{
+				"img": "asianbeautyx2.png"
+			},
+			{
+				"img": "asianbeautyx3.png"
+			}
+		]
+	},
+	{
+		"id": 1,
+		"header": "Earnest and Collective",
+		"exlinkText": "View live work",
+		"exlink": "https://earnestcollective.com/",
+		"content": "<p>My primary role in creating this website is creating the base structure of the website using PHP and SASS. The styling of the website is delegated to my colleague.</p>",
+		"imgsrc": [
+			{
+				"img": "earnestandcollective1.png"
+			},
+			{
+				"img": "earnestandcollective2.png"
+			},
+			{
+				"img": "earnestandcollective3.png"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"header": "Hush Home",
+		"exlinkText": "View live work",
+		"exlink": "https://www.hushhome.com/",
+		"content": "<p>Homepage - new landing page section created. The section was created using Shopify liquid, HTML, and Grunt and SASS. </p><p>Customised product pages - Mattress Protector Page and Towel Set Page. these pages were made by duplicating the default styled product page and sections were adjusted and styled accordingly using Shopify Liquid, and Grunt and SASS. </p><p>Reviews page - the page was created from scratch in Shopify liquid, and incorporating the reviews apps from Shopify.</p><p>Charity Page - due to the page being temporarily run, the entire page was hardcoded in Shopify liquid.</p>",
+		"imgsrc": [
+			{
+				"img": "hushhome1.png"
+			},
+			{
+				"img": "hushhome4.png"
+			},
+			{
+				"img": "hushhome2.png"
+			},
+			{
+				"img": "hushhome3.png"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"header": "2+1 Concepts",
+		"exlinkText": "Full experience here",
+		"exlink": "",
+		"content": "<p>As part of the Harry Potter event held at Changi Airport, users needed to spend a minimum amount before participating. The game makes use of the basic boiler-template(HTML), CSS and Javascript. As the game is required to be an independent application, and the tablet used does not run its own localhost. Therefore, I had to make use of indexedDB, the localised browser and device memory. To access and use it, I used jsstore.js. The animations were done using GSAP Tweenmax.</p>",
+		"imgsrc": [
+			{
+				"img": "2+1.png"
+			}
+		]
+	},
+	{
+		"id": 4,
+		"header": "Pernod Ricard (Curious Chase)",
+		"exlinkText": "Full experience here",
+		"exlink": "",
+		"content": "<!-- <p>For this project, the client required an interactive web app that does a \"spin the bottle\" animation. The web app makes use of PHP, SASS (for styling) and Javascript for interactivity. The web app only runs on mobile.</p> --><p>The web app was meant for a lucky draw event held by Martell. When the user spends a minimum amount, they can participate in this “Curious Chase” game. The user enters their details in the game, and tap into spinning a wheel. After the wheel spinning animation, the app returns either e-vouchers or bottles of Martell VSOP. The web app was built using PHP and styled using SASS.</p>",
+		"imgsrc": [
+			{
+				"img": "pernod-ricard-martel.png"
+			}
+		]
+	},
+	{
+		"id": 5,
+		"header": "Iryasa",
+		"exlinkText": "View live work",
+		"exlink": "",
+		"content": "<p>Iryasa uses an existing theme in Shopify. However, the client requested for customisation of sections, hence requiring changes to be made to the immediate Shopify liquid and SASS.liquid codes. </p>",
+		"imgsrc": [
+			{
+				"img": "iryasa1.png"
+			},
+			{
+				"img": "iryasa2.png"
+			}
+		]
+	},
+	{
+		"id": 6,
+		"header": "Marina Bay Sands",
+		"exlinkText": "View live work",
+		"exlink": "https://www.marinabaysands.com/\"",
+		"content": "My role was to change the content through the shopify admin board for each brand.",
+		"imgsrc": [
+			{
+				"img": "marinabaysands.png"
+			}
+		]
+	},
+	{
+		"id": 7,
+		"header": "Peaupeau Beauty",
+		"exlinkText": "View live work",
+		"exlink": "https://www.peaupeaubeauty.com/",
+		"content": "<p>PeauPeau Beauty was my first project when I started web development.</p><p>Peaupeau Beauty was created from scratch using PHP and SASS. Grunt was used to continuously update the SASS within the page. </p><p>After receiving client approval, the basic website was implemented into Shopify.</p><p>However, there were also requested changes in the pages from the client in the later phase. To make changes to the structure, I had to alter the Shopify liquid codes and SASS files. It is from this project that I learned how to edit Shoify codes and how they are affected by the Shopify theme editor.</p>",
+		"imgsrc": [
+			{
+				"img": "peaupeau1.png"
+			},
+			{
+				"img": "peaupeau2.png"
+			},
+			{
+				"img": "peaupeau3.png"
+			}
+		]
+	},
+	{
+		"id": 8,
+		"header": "Sennheiser",
+		"exlinkText": "View live work",
+		"exlink": "https://singapore.sennheiser.com/",
+		"content": "<p>My main role for this website is to alter changes according to client’s requests, implementing a product tracker using Javascript, and also create new subscription banners. As the website is already involving Shopify, it is required of me to make direct changes to the Shopify liquid codes. Changes also require me to make use of SASS and Grunt to style the pages and sections accordingly. </p>",
+		"imgsrc": [
+			{
+				"img": "sennheiser1.png"
+			},
+			{
+				"img": "sennheiser2.png"
+			}
+		]
+	},
+	{
+		"id": 9,
+		"header": "Sojao",
+		"exlinkText": "View live work",
+		"exlink": "https://sojao.shop/",
+		"content": "<p>As Sojao was already implemented into shopify, I had to use the Shopify liquid codes to alter the website accordingly. I was required to make a popup and a carousel in the product page. Languages used were Shopify Liquid, SASS and Javascript. Plugins used were slick.js and magnific-popup.js.</p>",
+		"imgsrc": [
+			{
+				"img": "sojao1.png"
+			},
+			{
+				"img": "sojao2.png"
+			}
+		]
+	},
+	{
+		"id": 10,
+		"header": "OCBC",
+		"exlinkText": "View live work",
+		"exlink": "https://www.ocbc.com/personal-banking/",
+		"content": "<p>My main involvement with the OCBC Personal Banking revamp project had me to edit and update components that are reusable on the frontend. The experience of working on the had me to use NPM along with Gulp to build the component templates to be built into the website.</p>",
+		"imgsrc": [
+			{
+				"img": "ocbc_personal.png"
+			},
+			{
+				"img": "ocbc_premier.png"
+			}
+		]
+	}
+]
